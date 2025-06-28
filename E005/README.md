@@ -1,4 +1,4 @@
-# 🧮 Reto: Área de polígonos
+# 🧠 Reto: Área de polígonos
 
 ## Enunciado
 

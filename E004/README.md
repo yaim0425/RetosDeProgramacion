@@ -1,4 +1,4 @@
-# 🔢 Reto: Números primos
+# 🧠 Reto: Números primos
 
 ## Enunciado
 
