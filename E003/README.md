@@ -12,7 +12,7 @@ Escribe un **programa** que imprima los **50 primeros números** de la **sucesi�
 
 ## 💡 Ejemplo de salida (primeros números)
 
-0, 1, 1, 2, 3, 5, 8, 13, ...
+`0` `1` `1` `2` `3` `5` `8` `13` ...
 
 ## 🐍 Lenguaje
 

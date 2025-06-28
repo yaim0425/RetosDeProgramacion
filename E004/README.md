@@ -14,8 +14,7 @@ Una vez hecho esto, el programa debe **imprimir los números primos entre 1 y 10
 
 ## 💡 Ejemplo de salida
 
-2, 3, 5, 7, 11, 13, 17, 19, 23, 29, ...
-
+`2` `3` `5` `7` `11` `13` `17` `19` `23` `29` ...
 
 ## 🐍 Lenguaje
 

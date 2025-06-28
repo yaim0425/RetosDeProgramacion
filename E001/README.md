@@ -4,7 +4,7 @@
 
 Escribe un programa que muestre por consola (usando `print`) los números del **1 al 100** (ambos incluidos), con un salto de línea entre cada impresión.
 
-Sin embargo, aplica las siguientes reglas:
+## Reglas:
 
 - Para los múltiplos de **3**, muestra la palabra `"fizz"`.
 - Para los múltiplos de **5**, muestra la palabra `"buzz"`.
