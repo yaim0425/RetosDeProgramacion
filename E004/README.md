@@ -4,7 +4,7 @@
 
 Escribe un **programa** que se encargue de comprobar si un número es o no **primo**.
 
-Una vez hecho esto, el programa debe **imprimir todos los números primos entre 1 y 100**.
+Una vez hecho esto, el programa debe **imprimir los números primos entre 1 y 100**.
 
 ### Reglas:
 
