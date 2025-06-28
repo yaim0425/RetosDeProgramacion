@@ -16,9 +16,9 @@ Crea una única **función** que sea capaz de **calcular y retornar el área de 
 ## 💡 Ejemplo de uso
 
 ```python
-calculate_area({"type": "triangle", "base": 10, "height": 5})     # 25.0
-calculate_area({"type": "square", "side": 4})                     # 16
-calculate_area({"type": "rectangle", "width": 6, "height": 3})    # 18
+calculate_area(form = "triangle", base = 10, height = 5)     # 25.0
+calculate_area(form = "square", base = 4)                     # 16
+calculate_area(form = "rectangle", base = 6, height = 3)    # 18
 ```
 
 ## 🐍 Lenguaje
