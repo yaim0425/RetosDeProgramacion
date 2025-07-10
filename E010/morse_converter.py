@@ -103,7 +103,7 @@ example_1 = "Feliz año nuevo"
 example_2 = "..-. . .-.. .. --..  .- --.-- ---  -. ..- . ...- ---"
 
 print("Text to Morse:")
-print(convert(example_1))  # Morse code
+print(convert(example_1))  # ..-. . .-.. .. --..  .- --.-- ---  -. ..- . ...- ---
 
 print("\nMorse to Text:")
-print(convert(example_2))  # Normal text
+print(convert(example_2))  # Feliz año nuevo
